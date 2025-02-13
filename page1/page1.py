@@ -1,1 +1,1 @@
-print("page1")
+print("page1 수정했지롱")
