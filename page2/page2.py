@@ -1,1 +1,1 @@
-print("page2")
+print("page2가 develop에서 pull하고 수정헀슈")
